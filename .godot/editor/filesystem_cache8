@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1738938190
+cenario.tscn::PackedScene::7304124956335152181::1738853817::0::1::::<><>::uid://dp856n7nhp8ak::::res://céu final.jpg<>uid://bo13qib1ls3tk::::res://paisagem do meu projeto.webp<>uid://bhd3uepp51xj8::::res://character_body_2d.tscn<>uid://cuotnkqu62bkn::::res://espinhos.tscn
+ceu.png::CompressedTexture2D::3649130695542464361::1737633154::1738759358::1::::<><>::
+character_body_2d.gd::GDScript::-1::1738764796::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::2885671748085203071::1738853821::0::1::::<><>::res://character_body_2d.gd<>uid://bhjnwma3k76r3::::res://lion.png
+céu final.jpg::CompressedTexture2D::8282096773765742998::1737720052::1738841859::1::::<><>::
+espinho.gd::GDScript::-1::1738851470::0::1::::<>Area2D<>::
+espinhos.tscn::PackedScene::6206696917788582829::1738853823::0::1::::<><>::res://espinho.gd<>uid://dlfo2d8b1b0yo::::res://obstaculo.png
+icon.svg::CompressedTexture2D::5346809468978598978::1737633154::1738759358::1::::<><>::
+images.jpg::CompressedTexture2D::4131995111066651843::1737988562::1738759358::1::::<><>::
+lion.png::CompressedTexture2D::2897151228884788602::1737720796::1738841859::1::::<><>::
+meu projeto.png::CompressedTexture2D::3847733808686646562::1737633154::1738841859::1::::<><>::
+obstaculo.png::CompressedTexture2D::7942559682830966314::1738842675::1738842845::1::::<><>::
+paisagem do meu projeto.webp::CompressedTexture2D::3424467387659414720::1737633154::1738841860::1::::<><>::

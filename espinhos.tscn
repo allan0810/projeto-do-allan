@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://cuotnkqu62bkn"]
+
+[ext_resource type="Script" path="res://espinho.gd" id="1_3wx3p"]
+[ext_resource type="Texture2D" uid="uid://dlfo2d8b1b0yo" path="res://obstaculo.png" id="2_p8yji"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Area2D" type="Area2D" parent="."]
+script = ExtResource("1_3wx3p")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="Area2D"]
+position = Vector2(16, 36)
+scale = Vector2(0.625, 0.5625)
+texture = ExtResource("2_p8yji")
+
+[connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]
